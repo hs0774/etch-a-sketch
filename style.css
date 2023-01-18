@@ -1,0 +1,30 @@
+.canvas{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.container{
+    height: 600px;
+    width: 960px;
+    border:4px solid black;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.buttonz{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex: 1;
+}
+.column{
+
+   border: 1px solid blue;
+   flex:1;
+ 
+}
